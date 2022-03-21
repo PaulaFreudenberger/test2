@@ -1,2 +1,2 @@
 Dies ist die erste (1) Zeile.
-Dies ist die zweite Zeile.
+Ich habe die zweite Zeile verändert.
