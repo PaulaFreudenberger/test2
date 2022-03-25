@@ -1,4 +1,4 @@
 Dies ist die erste (1) Zeile.
 Ich habe die zweite Zeile verändert.
 Dies ist die dritte Zeile.
-Dies ist die vierte Zeile.
+Die vierte Zeile wurde verändert.
